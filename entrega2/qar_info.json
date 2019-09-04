@@ -1,0 +1,7 @@
+{
+	"common_dir" : "/home/elisamalzoni/Documents/8osem/Embarcados-Avancados/",
+	"acds_version" : "Version 18.1.0",
+	"platform" : "linux",
+	"os" : "Ubuntu 18.04.3",
+	"qpf" : "RTL_Blink_LED.qpf"
+}
