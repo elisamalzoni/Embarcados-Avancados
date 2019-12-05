@@ -200,7 +200,7 @@ $ cd poky
 $ git clone https://github.com/kraj/meta-altera.git
 ```
 
-Mude a variável `MACHINE` para "cyclone5" no arquivo de configuração `????build/local.conf`
+Mude a variável `MACHINE` para "cyclone5" no arquivo de configuração `local.conf`
 
 Adicione uma *layer* ao arquivo de configuração de layers:
 ```
